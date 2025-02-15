@@ -34,6 +34,19 @@ Currently, I am transitioning to the development sector, where I assist my team 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="25" height="25"/>
           
 
+
+### 📊 GitHub Stats & Projects:
+Here you can check out some of my main projects. I am constantly working on new repositories related to **Cybersecurity**, **Development**, and **Automation**.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ailsongabriel&repo=CyberShield-Finder&theme=transparent)](https://github.com/ailsongabriel/CyberShield-Finder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ailsongabriel&repo=GetFileHashes&theme=transparent&description_lines_count=2&card_width=700)](https://github.com/ailsongabriel/GetFileHashes)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ailsongabriel&repo=YaraRuleGenerator&theme=transparent)](https://github.com/ailsongabriel/YaraRuleGenerator)
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ailsongabriel&theme=transparent&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&text_bold=true) 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ailsongabriel&theme=transparent&langs_count=3&text_bold=true) 
+
 ### 📬 Contact:
 
 <div>
@@ -42,9 +55,3 @@ Currently, I am transitioning to the development sector, where I assist my team 
 </div>
 
 If you're interested in **Cybersecurity**, **Development** or would like to discuss interesting projects, feel free to get in touch!
-
-<div>
-<a href="https://github.com/ailsongabriel">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailsongabriel&layout=compact&langs_count=7&theme=transparent"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ailsongabriel&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-</div>
