@@ -55,9 +55,3 @@ Here you can check out some of my main projects. I am constantly working on new 
 </div>
 
 If you're interested in **Cybersecurity**, **Development** or would like to discuss interesting projects, feel free to get in touch!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
