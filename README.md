@@ -56,4 +56,4 @@ Here you can check out some of my main projects. I am constantly working on new 
 
 If you're interested in **Cybersecurity**, **Development** or would like to discuss interesting projects, feel free to get in touch!
 
-![snake gif](https://github.com/ailsongabriel/ailsongabriel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ailsongabriel/ailsongabriel/blob/output/github-contribution-grid-snake-dark.svg)
