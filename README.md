@@ -28,10 +28,8 @@ Currently, I am transitioning to the development sector, where I assist my team 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="25" height="25"/>
           , 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="25" height="25"/>
-          , 
+          and 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="25" height="25"/>
-            and
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="25" height="25"/>
           
 
 
