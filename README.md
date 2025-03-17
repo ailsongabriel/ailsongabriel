@@ -40,7 +40,6 @@ Here you can check out some of my main projects. I am constantly working on new 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ailsongabriel&repo=GetFileHashes&theme=transparent&description_lines_count=2&card_width=700)](https://github.com/ailsongabriel/GetFileHashes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ailsongabriel&repo=YaraRuleGenerator&theme=transparent)](https://github.com/ailsongabriel/YaraRuleGenerator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ailsongabriel&repo=TrueLink&theme=transparent)](https://github.com/ailsongabriel/TrueLink)
-https://github.com/ailsongabriel/TrueLink
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ailsongabriel&theme=transparent&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&text_bold=true) 
