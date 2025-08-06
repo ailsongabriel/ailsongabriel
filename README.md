@@ -36,7 +36,7 @@ Currently, I am transitioning to the development sector, where I assist my team 
 ### 📊 GitHub Stats & Projects:
 Here you can check out some of my main projects. I am constantly working on new repositories related to **Cybersecurity**, **Development**, and **Automation**.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ailsongabriel&repo=CyberShield-Finder&theme=transparent)](https://github.com/ailsongabriel/CyberShield-Finder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ailsongabriel&repo=update-aws-sg-ip&theme=transparent)](https://github.com/ailsongabriel/update-aws-sg-ip)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ailsongabriel&repo=GetFileHashes&theme=transparent&description_lines_count=2&card_width=700)](https://github.com/ailsongabriel/GetFileHashes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ailsongabriel&repo=YaraRuleGenerator&theme=transparent)](https://github.com/ailsongabriel/YaraRuleGenerator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ailsongabriel&repo=TrueLink&theme=transparent)](https://github.com/ailsongabriel/TrueLink)
